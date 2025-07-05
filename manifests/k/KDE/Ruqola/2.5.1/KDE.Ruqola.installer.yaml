@@ -9,14 +9,14 @@ ProductCode: Ruqola
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://cdn.kde.org/ci-builds/network/ruqola/2.5/windows/ruqola-2.5-11003-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: E3E3A89E621E9A64D22D7BA697D93BF0795A225B7734E4A8469FB7C7C3C589CD
+  InstallerUrl: https://cdn.kde.org/ci-builds/network/ruqola/2.5/windows/ruqola-2.5-11143-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 3BE9E4BC8694DCD5B8E9A785BF0FFAA0932957A27A8A8ADDF631510C04A7DAD0
   InstallerSwitches:
     Custom: /CurrentUser
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://cdn.kde.org/ci-builds/network/ruqola/2.5/windows/ruqola-2.5-11003-windows-cl-msvc2022-x86_64.exe
-  InstallerSha256: E3E3A89E621E9A64D22D7BA697D93BF0795A225B7734E4A8469FB7C7C3C589CD
+  InstallerUrl: https://cdn.kde.org/ci-builds/network/ruqola/2.5/windows/ruqola-2.5-11143-windows-cl-msvc2022-x86_64.exe
+  InstallerSha256: 3BE9E4BC8694DCD5B8E9A785BF0FFAA0932957A27A8A8ADDF631510C04A7DAD0
   InstallerSwitches:
     Custom: /AllUsers
 ManifestType: installer
